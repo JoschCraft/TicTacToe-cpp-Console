@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Projektmappenelemente/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="TicTacToe_Console/TicTacToe_Console.vcxproj" Id="bb75f4f8-0dba-4c2e-83e9-bbbaf2484668" />
+</Solution>
